@@ -11,7 +11,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@extractus/article-extractor": "^8.0.6",
     "@mozilla/readability": "^0.6.0",
+    "he": "^1.2.0",
     "jsdom": "^24.0.0",
     "next": "16.1.6",
     "node-fetch": "^3.3.2",

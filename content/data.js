@@ -1,5 +1,71 @@
 export const data = [
   {
+    "date": "2026-05-22",
+    "topic": "Christina Papaconstantinou: The Greek economy - achievements and challenges",
+    "topicTag": "Banking & Finance",
+    "source": "BIS Central Bank Speeches",
+    "url": "https://www.bis.org/review/r260520a.htm",
+    "wordCount": 1244,
+    "passage": "The global economy has again come up against heightened uncertainty, as geopolitical tensions-particularly in the Middle East-continue to disrupt energy markets and supply chains, weighing on global growth and fueling inflation. This has worsened the outlook for euro area economies. Against this backdrop, the Greek economy is in a much stronger position than in the past, reflecting significant progress in recent years. Still, external risks and structural challenges persist, requiring consistent and well-coordinated policy responses. A key achievement of the past years has been the strengthening of economic resilience, underpinned by improved fundamentals, restored fiscal credibility, renewed investor confidence and progress in the banking sector. GDP growth remained robust at 2.1% in 2025, outperforming the euro area average for a fifth consecutive year. Its composition has also improved, with investment having a higher contribution to growth than private consumption. The investment-to-GDP ratio reached a 16-year high, while productive investment as a percentage of GDP rose to its highest level in three decades, supporting productivity and signaling a shift toward a more sustainable growth model. Labour market conditions have also strengthened significantly. The unemployment rate fell to 8.9% in 2025, its lowest level in 16 years, while labour force participation increased, particularly among women and young people. These favourable developments reflect both the economic recovery and the impact of reforms that enhanced labour market flexibility. Fiscal overperformance has also been strong, with a primary surplus of 4.9% of GDP, continued general government surpluses and a sharp decline in public debt to 146.1% of GDP, reinforcing credibility. Progress is equally evident in the financial sector. Banks have improved all their financial fundamentals, notably profitability, capital and liquidity positions, while non-performing loans (NPL) have declined markedly, converging with the average ratio for significant institutions within the Banking Union. In addition, all Greek significant banks are now within investment grade territory, and this has renewed investor interest in the Greek banking system. This was manifested by the vivid interest of foreign investors in capital instruments issued by Greek banks, the acquisition of about one third of the share capital of Alpha bank by Unicredit, and the successful share capital increase of CrediaBank. The restructuring of less significant banks (LSIs) has addressed one of the last legacies of the crisis, has enhanced competition and further supports the positive outlook for the banking sector. In fact, the two largest LSIs in Greece managed to clean-up their balance sheets, tapping the resources of the Hellenic Asset Protection Scheme and getting capital injection from private shareholders and the HFSF. A new bank (CrediaBank) with solid fundamentals has emerged which is expected to evolve into a significant institution. Moreover, the adoption of the so-called 'prudential backstop' is incentivizing small cooperatives with still high NPL ratios to accelerate the cleanup of their balance sheets. In addition, a recent Bank of Greece decision has enabled regional cooperative banks to operate throughout the whole country, facilitating the attraction of private capital to these entities. Already, we have seen vivid interest from private investors in entering the share capital of cooperative banks and transforming them into sociétés anonymes. Meanwhile, credit servicers play an important role in managing non-performing private debt in Greece. They hold around 91.5 billion euros in exposures according to the latest data, of which 10.9% concern exposures managed on behalf of credit institutions. The resolution of private debt is less a concern from a banking supervision perspective, but it is of utmost importance for economic growth, both regarding the rehabilitation of viable obligors back to the banking system, but also regarding the efficient use of idle collateral. Looking ahead, growth is expected to moderate to 1.9% in 2026, mainly due to weaker consumption and a negative contribution from the external sector. Inflationary pressures are likely to persist, driven by increases in energy costs, while the current account deficit is projected to remain elevated. By contrast, the structural fiscal position is expected to remain strong, providing room to cushion the impact of the external shock without undermining fiscal stability. The financial sector outlook also remains broadly positive, supported by 'healthy' credit expansion, the diversification of banks' sources of income (driven by the acquisition of foreign banks and domestic entities in the insurance and asset management sector) and further strengthening of banks' resilience, although uncertainty may weigh on financing conditions. External conditions remain a key downside risk. Geopolitical uncertainty, rising energy costs and persistent inflation could further weigh on growth and sentiment. The still-elevated current account deficit reflects structural vulnerabilities, including the concentration of exports in a limited number of sectors. Beyond external risks, structural constraints continue to weigh on long-term growth. Productivity remains central to convergence with the euro area, yet progress is held back by a persistent investment gap and remaining institutional inefficiencies, such as bureaucratic complexity, slow judicial processes and regulatory obstacles. The prevalence of very small firms limits economies of scale, access to finance and technology adoption, while skill mismatches hold back productivity and innovation. Demographic pressures and relatively low labour participation further limit potential output. At the same time, gaps in digitalisation and innovation, along with high energy costs, continue to weaken competitiveness. Addressing these challenges is essential to unlocking the economy's full potential and sustaining convergence with euro area peers. This requires a coherent strategy centered on an investment- and innovation-driven growth model. Leveraging European Union (EU) resources can support productive investment and attract foreign capital into higher value-added sectors. Digital transformation and the adoption of advanced technologies can enhance productivity. The green transition is equally critical. Although significant progress has already been made, with around 50% of our energy generated from renewable sources, there is still scope for improvement, offering further opportunities to reduce energy costs and strengthen resilience through investment in renewable energy, energy infrastructure and storage capacity. In this regard, strengthening human capital-through education, skills development and lifelong learning-is essential to address labour market mismatches and support innovation. Addressing demographic challenges through family support and policies to facilitate a \"brain regain\" will also underpin long-term growth. Institutional reform remains a key enabler of growth. Streamlining administrative processes, improving public sector efficiency and accelerating judicial procedures can reduce uncertainty, lower costs and foster a more business-friendly environment, while strengthening transparency and investor confidence. Reducing external imbalances requires greater export diversification and a reallocation of resources toward higher value-added tradable sectors such as manufacturing, agribusiness and logistics. Enhancing the quality of tourism and addressing labour shortages can further support sustainable tourism growth. At the same time, stronger financial intermediation-through banks and capital markets-can improve access to finance, particularly for small and medium-sized enterprises. Finally, maintaining fiscal discipline is essential. At the current juncture, policy support measures should remain targeted and temporary, alongside continued efforts to combat tax evasion and broaden the tax base. Overall, the Greek economy has made substantial progress and demonstrated resilience despite an uncertain global environment. Sustaining this positive momentum requires addressing both external risks and structural constraints through a consistent mix of investment, reforms and forward-looking policies. At the same time, many of these challenges are shared across the EU, underscoring the need for a stronger collective response. Deepening integration-through enhanced policy coordination, progress in the Banking Union and Savings and Investments Union, and the development of common financing tools-is essential for strengthening resilience, competitiveness and long-term prosperity in both Greece and the euro area. The views expressed in this speech are those of the speaker and do not necessarily reflect those of the BIS.",
+    "questions": [
+      {
+        "type": "Main Idea",
+        "question": "What is the central theme of the passage?",
+        "options": [
+          "Economic policy shift",
+          "Sports event outcome",
+          "Entertainment awards",
+          "Weather updates"
+        ],
+        "answer": "Economic policy shift"
+      },
+      {
+        "type": "Factual Detail",
+        "question": "Which key fact is emphasized in the passage?",
+        "options": [
+          "A primary factual detail",
+          "A celebrity rumor",
+          "A fictional claim",
+          "An unrelated anecdote"
+        ],
+        "answer": "A primary factual detail"
+      },
+      {
+        "type": "Inference",
+        "question": "What is a major cause or factor discussed?",
+        "options": [
+          "A contributing factor",
+          "A minor coincidence",
+          "A sports strategy",
+          "A film review"
+        ],
+        "answer": "A contributing factor"
+      },
+      {
+        "type": "Factual Detail",
+        "question": "What is a significant consequence mentioned?",
+        "options": [
+          "A notable outcome",
+          "A fashion trend",
+          "A travel tip",
+          "A food recipe"
+        ],
+        "answer": "A notable outcome"
+      },
+      {
+        "type": "Inference",
+        "question": "What inference can be drawn from the passage?",
+        "options": [
+          "A logical inference",
+          "A movie spoiler",
+          "A sports forecast",
+          "A personal opinion"
+        ],
+        "answer": "A logical inference"
+      }
+    ]
+  },
+  {
     "date": "2026-05-21",
     "topic": "Christina Papaconstantinou: The Greek economy - achievements and challenges",
     "topicTag": "Banking & Finance",

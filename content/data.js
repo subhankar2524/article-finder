@@ -1,5 +1,71 @@
 export const data = [
   {
+    "date": "2026-08-31",
+    "topic": "The global economy in 2026 and beyond - financing Europe and Greece's future",
+    "topicTag": "Economy",
+    "source": "BIS Central Bank Speeches",
+    "url": "https://www.bis.org/speeches/20260817-global-economy-2026-and-beyond-financing-europe-and-greeces-future",
+    "wordCount": 1122,
+    "passage": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 30th Annual Economist Government Roundtable \"The global economy in 2026 and beyond – financing Europe and Greece's future\", Athens, 10 July 2026. I would like to thank the Economist for the kind invitation. It is a great pleasure to participate in this panel with the ECB Vice President, Boris Vujčić and the CEO of the National Bank of Greece, Pavlos Mylonas. The agreement between the US and Iran had led to an unexpected reduction in energy prices close to levels prevailing before the war. These developments, if sustained, could lead to higher growth and lower inflation compared to previous forecasts. It is indicative that annual inflation in the Euro area fell to an unexpected 2.8% in June 2026 from 3,2% in May. However, hostilities between US and Iran started again two days ago, and led to new pressures on oil prices. No one can actually predict what will happen next. These developments show how precarious and volatile is the situation in the Middle East and, as a consequence, energy prices. It also shows the uncertainty surrounding inflation forecasts and therefore, the challenges that monetary policy has to face. I would like to zoom in on the recent developments in the Greek banking sector. As you all know, there has been a strong turnaround story of Greek lenders. In fact, the banking sector today bears no resemblance to that of the past decade. Let me give you briefly some more colour regarding the significant improvement in their financial metrics: According to the most recent data (March 2026), the average Capital Adequacy Ratio of Greek banks is approximately 20%. Banks have wide management buffers, and the resumption of the dividend payouts last year marked the return to normality. The average NPL ratio has dropped to levels close to the EU average and currently stands at 3.4%. Banks are recording double-digit returns on equity. This resulted from the clean-up of their loan book, business growth, a diversification of their income sources and cost containment actions. All Greek significant banks are in investment grade status and enjoy ample liquidity. For example, the Liquidity Coverage Ratio is circa 190%, well above the minimum required level of 100%. Legacies in the less significant institutions (LSIs) have also been addressed, notably after the merger and recapitalisation of the two largest LSIs. It is clear that the banking sector today can fulfil – and it does fulfil – its intermediation role in the economy. Beyond the soundness of the banking sector, the strong credit growth of the past few years is attributed to the favourable economic conditions as well as the Resilience and Recovery Facility (RRF) and other EU structural funds. More specifically, Greece has the highest total RRF allocation as a share of its national GDP across the entire EU, making the Facility a key driver of the country's economic growth momentum. Beyond public projects, the RRF loan component has successfully mobilised resources from domestic commercial banks and international organisations, leveraging significantly larger volumes of private investment. By the end of May, contracted RRF loans had reached €13.2 billion, with all milestones for the remaining payment claims successfully completed. Furthermore, over 200 milestones and targets have been fulfilled, spanning upgrades to healthcare, the judicial system, digitalisation of government services and tax administration reform. Greece has performed relatively well in securing approvals and funds. Having achieved a disbursement rate of approximately 68.5%, it ranks among the leading EU beneficiaries. The critical question, however, is what happens after the RRF. The Facility should not be viewed as a temporary demand stimulus, but as a bridge towards a more productive, innovative and resilient economy. This makes the timely completion of the remaining milestones – and, equally importantly, the full absorption of the loan programme – essential. The investments already initiated will continue to be implemented beyond 2026, but their lasting impact will depend on whether they crowd in private capital, raise productivity and expand the economy's productive capacity. For Greece, the end of the RRF in 2026 should not be confused with an abrupt withdrawal of investment support. The formal deadline for signing contracts and completing milestones differs from the timing of actual investment expenditure. In particular, RRF-financed private projects have multi-year implementation horizons, while loan disbursements to final beneficiaries will continue until 2029. Grant-funded projects already under way will also support activity beyond 2026. Moreover, resources from cohesion policy, the EU's Multiannual Financial Framework (MFF 2028-34) which is currently under negotiation, the national Public Investment Programme, the European Investment Bank and private investment, domestic and foreign, will increasingly complement the RRF. Therefore, although the strong RRF impulse will gradually moderate, Greece should experience a smooth transition rather than an investment cliff – provided that the remaining funds are fully absorbed and the reforms that attract and leverage private capital are maintained. This challenge is not uniquely Greek. The global economy has entered a period charecterised by geopolitical conflicts, trade protectionism, weaker medium-term growth, higher inflation and exceptionally large investment needs in defence, energy security, the green transition and digital technologies. Europe cannot finance these priorities through national budgets alone. It must mobilise its substantial pool of private savings and channel it towards productive investment. This requires faster progress with the Savings and Investments Union, deeper and more integrated capital markets, and completion of the Banking Union, including a common deposit insurance scheme. At the same time, genuinely European public goods may require a targeted common financing capacity, governed by clear rules and credible funding arrangements. Greece is now better prepared than in the past. Fiscal credibility has been restored, public debt is on a firm downward path, the banking sector is sound and access to international capital markets has normalised. However, bank lending alone will not be sufficient. Greece must broaden the financing ecosystem through corporate bond and equity markets, institutional investors, venture capital and public-private partnerships, while strengthening financial literacy and encouraging long-term household saving. This is especially important because demographic ageing, climate risks and rapid technological change will weigh on potential growth, unless investment is accompanied by better education, skills, research and innovation. Ultimately, the objective is to convert temporary European support into permanent domestic capabilities: stronger institutions, more productive firms, better skills, greater innovation and higher export capacity. Greece has the resources and the opportunity to sustain convergence to the EU. But success will depend on continued political stability, fiscal, macroeconomic and financial policy consistency, reform continuity and the ability to mobilise domestic and European capital towards investments with the highest economic and social returns. The views expressed in this speech are those of the speaker and do not necessarily reflect those of the BIS.",
+    "questions": [
+      {
+        "type": "Main Idea",
+        "question": "What is the central theme of the passage?",
+        "options": [
+          "Economic policy shift",
+          "Sports event outcome",
+          "Entertainment awards",
+          "Weather updates"
+        ],
+        "answer": "Economic policy shift"
+      },
+      {
+        "type": "Factual Detail",
+        "question": "Which key fact is emphasized in the passage?",
+        "options": [
+          "A primary factual detail",
+          "A celebrity rumor",
+          "A fictional claim",
+          "An unrelated anecdote"
+        ],
+        "answer": "A primary factual detail"
+      },
+      {
+        "type": "Inference",
+        "question": "What is a major cause or factor discussed?",
+        "options": [
+          "A contributing factor",
+          "A minor coincidence",
+          "A sports strategy",
+          "A film review"
+        ],
+        "answer": "A contributing factor"
+      },
+      {
+        "type": "Factual Detail",
+        "question": "What is a significant consequence mentioned?",
+        "options": [
+          "A notable outcome",
+          "A fashion trend",
+          "A travel tip",
+          "A food recipe"
+        ],
+        "answer": "A notable outcome"
+      },
+      {
+        "type": "Inference",
+        "question": "What inference can be drawn from the passage?",
+        "options": [
+          "A logical inference",
+          "A movie spoiler",
+          "A sports forecast",
+          "A personal opinion"
+        ],
+        "answer": "A logical inference"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "topic": "The global economy in 2026 and beyond - financing Europe and Greece's future",
     "topicTag": "Economy",

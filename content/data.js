@@ -1,5 +1,71 @@
 export const data = [
   {
+    "date": "2026-09-11",
+    "topic": "Marching ahead with Responsibility and Growth - Keynote Address<sup>[1]</sup> delivered by Shri Shirish Chandra Murmu, Deputy Governor, at the 7th NBFC and HFC Summit in Mumbai on September 03, 2026 - ",
+    "topicTag": "Banking & Finance",
+    "source": "RBI Speeches",
+    "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1575",
+    "wordCount": 1695,
+    "passage": "Distinguished guests, leaders from the financial industry, esteemed colleagues from the regulatory fraternity, ladies and gentlemen, very good morning. 2. It is my privilege to address the 7th Edition of the NBFC & HFC Summit. I thank the organisers for inviting me to speak on “NBFCs, HFCs and the New Phase of Growth.” Fewer subjects matter as much to India’s growth over the next decades as this one. India is moving steadily towards Viksit Bharat — a developed India that is economically strong, socially inclusive, and technologically advanced. I believe that a strong and diverse credit system is essential to this goal. Our financial sector is changing fast, driven by technology, new customer expectations, and a national push for inclusive growth. NBFCs and HFCs are no longer on the sidelines of this story. They extend credit to the last mile, reach the underserved, and bring innovation to lending across the country. 3. What will this New Phase of Growth look like? Consider MSME credit. According to various estimates, substantial credit needs of MSME are still not met by the formal lenders today. That gap alone shows the scale of opportunity. There are credit gaps in other segments as well. Technology can close these gaps. Some see this only as a shift from collateral-based lending to data-driven lending, including cash-flow based lending. I believe it is more than that. It is changing how financial services are delivered, and how risk is assessed and managed, across the entire lending chain. A. The Evolution of the Credit Landscape 4. India’s credit system has, for decades, been centred around banks. Banks mobilised deposits and extended loans. They played a key role in building the nation after Independence. This bank-led model has delivered scale, stability, and strong regulatory oversight. But it had also left some gaps — particularly in remote areas, in underserved segments, and in niche markets where standard, collateral-based lending did not work so perfectly. 5. NBFCs and HFCs have been filling these gaps as alternative lenders. They have moved from niche lenders to sophisticated, technology-driven institutions that now complement the banking system. They assess creditworthiness using more than traditional metrics. They reach customers in remote areas and serve segments that banks often find hard to serve. Their flexibility, faster decisions, and local knowledge have helped advance financial inclusion. 6. The numbers substantiate this claim. NBFC credit today is about 16.7 per cent of nominal GDP, up from 15.9 per cent a year earlier. It is about 27 per cent of the credit extended by Scheduled Commercial Banks, up from 26 per cent. B. From Alternative Lenders to Recognised Partners 7. The role of NBFCs is changing again — from alternative lenders to specialised financial partners. Their diversity is their biggest strength. In this New Phase of Growth, NBFCs can lead in three areas. Financial Inclusion and Last-Mile Reach 8. India has built strong digital public infrastructure — PMJDY, UPI, Aadhaar, Account Aggregator framework, and more recently Unified Lending Interface (ULI). NBFCs are well placed to use this infrastructure. It can lower the cost of credit and speed up loan disbursal. Account aggregators and consent-based data sharing will help NBFCs make better lending decisions. This reduces reliance on physical collateral and extends formal credit to MSMEs and microfinance borrowers. Sector-Specific Expertise 9. Many NBFCs and HFCs have deep expertise in specific sectors — supply chain finance, infrastructure debt, affordable housing, vehicle financing, and gold and silver-backed lending, among others. This specialisation supports sharper risk assessment and better products. Our economy needs lenders who understand specific industries and can structure credit around their borrowers’ cash flows. Co-lending arrangements with banks can extend this impact further. Innovation in Product Design and Delivery 10. NBFCs have led fintech adoption — from paperless onboarding to algorithmic credit scoring. Cash-flow based lending is emerging as an alternative to conventional balance-sheet lending. New data points, such as a food service provider’s order values or footfall, are being used to assess growth prospects. This endeavour should continue for efficient credit delivery and pricing. C. The Sector’s Journey and Regulatory Response 11. While the sector has been growing steadily, this growth has not been without setbacks. The non-banking sector has faced real challenges in the recent past. Liquidity shocks exposed weak asset-liability management, heavy reliance on short-term wholesale funding, and deep links with the wider financial system. These episodes also showed the need for stronger governance. Regulatory Philosophy 12. Before I discuss our regulatory approach, let me attempt an analogy. Construction of a well-known building in the Middle East began in January 2004. It reached its 100th floor in just 36 months. Today, at 2,717 feet, it remains the tallest building in the world. What is less known is that it took 14 months just to prepare the foundation — to make it strong enough to withstand desert winds and extreme weather. The builders did not compromise on the foundation, even though they were working on a tight schedule. Our role is similar: to make sure the foundation is strong enough to support tall structures that last. 13. Over the past five to six years, we introduced a series of changes to support recovery and strengthen the sector’s foundations. Let me highlight a few of these. In November 2019, comprehensive Liquidity Risk Management framework was introduced for NBFCs, and Boards were made responsible for liquidity-risk management, with formal roles for the Risk Management Committee, ALCO, etc. Also, phased LCR requirements were introduced for NBFCs since December 2020. In October 2021, RBI introduced Scale Based Regulation for NBFCs — a four-layer structure with rules proportionate to size, activity, and risk. This was a major shift in our approach. We consolidated this framework further in October 2023. We also addressed specific risks. We extended risk, compliance, and internal audit requirements to NBFCs. We issued directions on fraud risk management and simplified and harmonised supervisory reporting. 14. Regulation is not only about managing risk. It is also about enabling sustainable growth. The 2022 microfinance guidelines removed interest-rate caps and created a level playing field with banks. The 2024 Digital Lending guidelines gave serious players clear rules to grow within. Industry participants, including fintechs, have told me these guidelines brought much-needed clarity. 15. Our regulation-making has also become more transparent and consultative. In November 2025, we completed a major exercise to bring all entity-wise regulations into one place. This will reduce compliance costs and make it easier to do business. We have also taken specific steps to support growth: lower risk weights for infrastructure lending by NBFCs, more flexibility for boards on related-party lending, inclusion of quarterly profit for computing net owned funds and capital, and removal of prior approval for branch expansion by larger NBFCs (those with more than 1,000 branches). More recently, we exempted small NBFCs — those without public funds or customer interface, and with assets below ₹1,000 crore — from registration requirements. Together, these steps should further support the sector’s growth. 16. As digital finance grows, we have chosen not to build a separate regulatory framework for it. Instead, we apply the principle of “substance over form” — adapting existing rules to new, digital contexts. Our focus stays on proportionate regulation and financial stability, while making sure digital innovation is never held back. D. Regulatory Expectations 17. Looking ahead, the sector will face new challenges alongside new opportunities. Let me set out five areas that matter most for sustainable growth. Governance and Culture 18. Good governance is the foundation of every strong institution. Boards and senior management must build a culture of sustained compliance and ethics across the organisation. As the sector scales, that strength must scale with it. Liquidity Management 19. Past liquidity events have shown how exposed NBFCs and HFCs can be to shifts in market sentiment and funding concentration. Strong liquidity risk management is not optional. Recent episodes in some advanced economies are reminder of this. Entities must diversify their funding sources. A deep, liquid corporate bond market will help, and we will keep working with market participants to build one. Securitisation should also grow beyond a liquidity tool — into a genuine way to transfer risk and free up capital, with proper skin-in-the-game and transparency rules. Asset Quality and Credit Risk 20. As credit growth speeds up, so does the risk to asset quality. Lenders need rigorous stress testing, early-warning systems, and dynamic provisioning. AI and machine learning tools should be used more to detect early signs of borrower stress. Let me be clear: growth must never come at the cost of underwriting standards. Customer Protection and Fair Conduct 21. Customer trust is fundamental to sustainable business. The pace of innovation must never outpace the protection, especially of vulnerable customers. Conduct regulation, grievance redressal, and responsible lending remain top priorities for us. Our recent guidelines on conduct of recovery agent reflect this priority. In an age where feedback travels instantly, there is no substitute for public trust. Digital Transformation and Cyber Resilience 22. Technology adoption must keep deepening — from blockchain in supply chain finance to AI in fraud detection. But digitalisation brings cyber risk. Cyber resilience must stay a top priority. Entities must invest in strong cyber-security to protect customer data and maintain trust. Innovation must serve both efficiency and fairness. It should not exclude vulnerable segments or add new risks. Above all, innovation must be responsible. E. Conclusion 23. Let me conclude. The opportunities ahead for NBFCs and HFCs are real and large. India’s growing economy, demographic dividend, rapid urbanisation, and digital growth, all offer room to grow. This growth will be shaped by technology and by trust. Your adaptability, your innovation and above all, your focus on customers, will decide how far this vision goes. The Reserve Bank will keep supporting responsible growth. We will keep encouraging innovation. We will keep managing risk with prudence. And we will keep working with all concerned to ensure that the financial system facilitates India’s development. Through continued collaboration between regulators, regulated entities, other stakeholders and government, we can build a credit system that is strong, inclusive, and fair. Thank you. Jai Hind. 1 Contributions by RBI colleague Shri Mohammed Majidullah, General Manager.",
+    "questions": [
+      {
+        "type": "Main Idea",
+        "question": "What is the central theme of the passage?",
+        "options": [
+          "Economic policy shift",
+          "Sports event outcome",
+          "Entertainment awards",
+          "Weather updates"
+        ],
+        "answer": "Economic policy shift"
+      },
+      {
+        "type": "Factual Detail",
+        "question": "Which key fact is emphasized in the passage?",
+        "options": [
+          "A primary factual detail",
+          "A celebrity rumor",
+          "A fictional claim",
+          "An unrelated anecdote"
+        ],
+        "answer": "A primary factual detail"
+      },
+      {
+        "type": "Inference",
+        "question": "What is a major cause or factor discussed?",
+        "options": [
+          "A contributing factor",
+          "A minor coincidence",
+          "A sports strategy",
+          "A film review"
+        ],
+        "answer": "A contributing factor"
+      },
+      {
+        "type": "Factual Detail",
+        "question": "What is a significant consequence mentioned?",
+        "options": [
+          "A notable outcome",
+          "A fashion trend",
+          "A travel tip",
+          "A food recipe"
+        ],
+        "answer": "A notable outcome"
+      },
+      {
+        "type": "Inference",
+        "question": "What inference can be drawn from the passage?",
+        "options": [
+          "A logical inference",
+          "A movie spoiler",
+          "A sports forecast",
+          "A personal opinion"
+        ],
+        "answer": "A logical inference"
+      }
+    ]
+  },
+  {
     "date": "2026-09-09",
     "topic": "Recent economic and financial developments in Turkey",
     "topicTag": "Banking & Finance",
